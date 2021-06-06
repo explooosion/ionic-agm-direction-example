@@ -1,0 +1,8 @@
+{
+  "name": "AGM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eb527916"
+}
