@@ -13,3 +13,5 @@ More info please check out [commits](https://github.com/explooosion/ionic-agm-di
 3. install agm-direction@latest
 4. import modules in your module.ts
  
+## Preview
+![image](https://user-images.githubusercontent.com/13682994/120917325-40152180-c6e1-11eb-8cca-0d34f8fa2666.png)
