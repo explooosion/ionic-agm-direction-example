@@ -1,4 +1,13 @@
 <div id="container">
   <strong>{{ name }}</strong>
   <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+
+  <agm-map [latitude]="lat" [longitude]="lng">
+    <agm-direction
+     [origin]="origin"
+     [destination]="destination"
+     >
+    </agm-direction>
+  </agm-map>
+
 </div>
