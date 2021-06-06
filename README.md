@@ -5,6 +5,8 @@
 
 This is an example for [@agm/core](https://angular-maps.com/api-docs/agm-core/)  + [agm-direction](https://github.com/explooosion/Agm-Direction/) build with [ionic](https://ionicframework.com//).
 
+More info please check out [commits](https://github.com/explooosion/ionic-agm-direction-example/commits/master).
+
 ## Installation
 1. create your ionic app
 2. install  @agm/core@1.1.0
